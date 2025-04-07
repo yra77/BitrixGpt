@@ -1,0 +1,1810 @@
+22.02.2025 8:27:49
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:27:51
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:27:51
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:27:53
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:28:37
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:28:39
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:28:39
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:28:39
+	Воронка 5, угода - 17331, 21|TGC380993225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:28:39
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:29:30
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:29:32
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:29:32
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:29:32
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:53:54
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:55:43
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:56:48
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 8:56:50
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:56:50
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:56:50
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:59:51
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:59:51
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 8:59:52
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:05:50
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:05:51
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:05:51
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:05:52
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:06:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:06:18
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:06:18
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:06:19
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 213
+	BitrixGpt.Bitrix24.SendToBitrix
+22.02.2025 9:06:19
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:08:55
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:08:59
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:08:59
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:08:59
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 213
+	BitrixGpt.Bitrix24.SendToBitrix
+22.02.2025 9:08:59
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:57
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:10:59
+	Воронка 3, угода - 877, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 994, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 1600, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 1798, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 2185, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 2772, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 6984, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 9243, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 10558, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 11164, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 11213, 40 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 811, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 812, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 813, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 815, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 816, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 817, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 818, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 819, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 821, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 822, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 823, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 824, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 827, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 828, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 829, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 830, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 833, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 834, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 835, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 836, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 838, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 839, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 840, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 844, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 849, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 850, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 851, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 852, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 853, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 854, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 855, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 856, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 857, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 858, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 859, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 860, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 862, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 863, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:10:59
+	Воронка 3, угода - 864, 37 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:11:32
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:11:33
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+22.02.2025 9:17:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:17:20
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:17:20
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:17:20
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:17:21
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:19:47
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:19:49
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:19:49
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:19:49
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:19:49
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:19:50
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:46
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:22:47
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:47
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:47
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:47
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:47
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:22:48
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:51
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:30:52
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:54
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:54
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:54
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:54
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:30:54
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:33:18
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:20
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:20
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:20
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:20
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:33:20
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:40
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:34:42
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:43
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:43
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:43
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:43
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:34:43
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:36:04
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:36:06
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:36:07
+	ERROR: System.Linq
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source)
+   at BitrixGpt.Bitrix24.BitrixMain.GetClientMsgWithoutManagerRiple(List`1 dealogHistory, String managerId, Int32& lastMsgClientID) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 219
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 136
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:00
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:41:01
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:03
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:03
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:03
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:03
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:41:03
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:04
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:05
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:05
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:05
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:05
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:44:06
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:47:36
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:39
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:39
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:39
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:39
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:47:40
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:49:36
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:49:39
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:49:39
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:49:39
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 213
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 9:49:39
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:02
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:50:03
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:05
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:05
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:05
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:05
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:50:05
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:40
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:52:42
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:44
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:44
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:44
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:44
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:52:47
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:56:36
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:37
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:37
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:37
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:37
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:56:38
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:27
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 9:57:28
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:29
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:29
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:29
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:29
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 9:57:30
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:39
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 10:39:41
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:42
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:42
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:43
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:43
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:43
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:39:44
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:07
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 10:44:10
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:12
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:12
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:12
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:12
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:12
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:44:13
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:46
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 10:55:49
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:50
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:50
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:50
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:50
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:50
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:55:51
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:52
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 10:58:54
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:56
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:58
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:58
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:58
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:58
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:58
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:01:59
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:01
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:05:02
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:04
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:05
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:05
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:05
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:05
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:05
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:08:06
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:30
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 11:09:32
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:33
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:33
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:33
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:33
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:33
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:09:34
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:36
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:37
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:37
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:37
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:37
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:37
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:12:38
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:39
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:40
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:41
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:41
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:41
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:41
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:15:41
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:43
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:44
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:44
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:44
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:44
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:44
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:18:45
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:47
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:48
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:21:49
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:50
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:51
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:52
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:52
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:52
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:52
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:52
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:24:53
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:55
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:56
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:27:57
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:30:59
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:00
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:01
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:01
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:01
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:01
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:01
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:31:02
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:04
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:06
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:07
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:07
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:07
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:07
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:07
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:34:08
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:14
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:16
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:17
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:17
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:17
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:17
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:17
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 11:37:18
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 13:03:19
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:20
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:21
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:21
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:21
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:21
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:21
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:03:22
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:02
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 13:23:04
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:06
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 13:23:07
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 14:08:18
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:19
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:08:20
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:09:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 14:09:41
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:09:42
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:10:46
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 14:10:51
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:10:53
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:12:40
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 14:12:44
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:12:46
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:13:51
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 14:13:56
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 14:13:58
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:07:19
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:19
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:07:20
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:38
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:08:40
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:40
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:40
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:40
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:41
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:41
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:41
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:08:42
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:42
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:42
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:43
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:08:43
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:09:39
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 77
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 34
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:10:39
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 77
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 34
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:11:39
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 77
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 34
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:11:43
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:44
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:11:45
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:12:39
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.AsyncWindowsFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 77
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 34
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:16:09
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:16:11
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:11
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:11
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:11
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:12
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:12
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:12
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:16:13
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:13
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:14
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:14
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:16:14
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:17:10
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 78
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 35
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:18:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:18:18
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:19
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:19
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:19
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:19
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:20
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:20
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:18:20
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:20
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:21
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:21
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:18:21
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:19:18
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 78
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 35
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:21:46
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:21:48
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:48
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:49
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:49
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:49
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:49
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:49
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:21:50
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:50
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:50
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:51
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:21:51
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:22:47
+	Помилка відправки запроса з черги до gpt System.Private.CoreLib
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at BitrixGpt.ConnectOpenAI.GptChat.LoadJsonDataAsync(String filePath) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 77
+   at BitrixGpt.ConnectOpenAI.GptChat.StartAsync(Int32 userID, String userQuestion, String clientChatHistory, String projectName, responseChatGpt returnResponse) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\GptChat.cs:line 34
+   at BitrixGpt.ConnectOpenAI.QueueToGpt.StartWhileAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\ConnectOpenAI\QueueToGpt.cs:line 110
+	BitrixGpt.ConnectOpenAI.QueueToGpt
+22.02.2025 16:23:54
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:23:56
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:56
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:56
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:56
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:57
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:57
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:57
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:23:58
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:58
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:58
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:59
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:23:59
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 16:28:43
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Історії чату 17346.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:44
+	Історії чату 17347.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:44
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Історії чату 17354.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:44
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:44
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:45
+	Історії чату 17331.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:45
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:28:45
+	Історії чату 17350.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:45
+	Історії чату 17352.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:46
+	Історії чату 17355.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:46
+	Історії чату 17356.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:28:46
+	Історії чату 17357.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 16:31:47
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 16:31:48
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:10:19
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 19:10:23
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:10:24
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:10:24
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:10:24
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 185
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:10:24
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:10:25
+	Історії чату 17263.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:11:39
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 19:11:43
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:11:43
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:11:43
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:11:43
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 185
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:11:43
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:11:44
+	Історії чату 17263.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:13:48
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:14:45
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:14:47
+	Історії чату 16615.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:14:47
+	Історії чату 16798.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+22.02.2025 19:14:48
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 185
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:14:48
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:15:54
+	Файл історії User - 16615 перемістили у архів.
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:15:55
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Отвеченно } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:15:55
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+22.02.2025 19:15:56
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:15:56
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+22.02.2025 19:56:07
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+22.02.2025 19:56:10
+	Воронка 4, угода - 17342, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:11
+	Воронка 4, угода - 17353, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:12
+	Воронка 4, угода - 17358, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:12
+	Воронка 4, угода - 17360, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:13
+	Воронка 4, угода - 17343, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:13
+	Воронка 4, угода - 17344, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:13
+	Воронка 4, угода - 17345, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:13
+	Воронка 4, угода - 17351, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:14
+	Воронка 5, угода - 17321, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:14
+	Воронка 5, угода - 17339, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+22.02.2025 19:56:17
+	Воронка 5, угода - 17364, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain

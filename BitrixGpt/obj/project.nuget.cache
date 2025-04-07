@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejpWsagPlxA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kceni\\OneDrive\\Рабочий стол\\Projects\\BitrixGpt\\BitrixGpt\\BitrixGpt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kceni\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\microsoft.visualstudio.threading\\17.13.2\\microsoft.visualstudio.threading.17.13.2.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.13.2\\microsoft.visualstudio.threading.analyzers.17.13.2.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\microsoft.visualstudio.validation\\17.8.8\\microsoft.visualstudio.validation.17.8.8.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\kceni\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

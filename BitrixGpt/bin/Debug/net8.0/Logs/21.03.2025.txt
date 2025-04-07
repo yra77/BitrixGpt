@@ -1,0 +1,2464 @@
+21.03.2025 6:36:36
+	Логування працює.
+	BitrixGpt.Logs.Log
+21.03.2025 6:36:40
+	Надсилаємо питання до gpt угода - Vika.arabadzhi - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:36:40
+	Додаємо історію чату з клієнтом 18069.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 6:36:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:36:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:37:42
+	✅ Оператор 5 успішно відповів (Chat ID: 7463)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 6:39:42
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:39:42
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:42:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:42:44
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:45:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:45:45
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:48:47
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:48:47
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:51:48
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:51:48
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:54:50
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:54:50
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:57:51
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 6:57:51
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:00:53
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:00:53
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:03:54
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:03:55
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:06:56
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:06:56
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:09:57
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:09:58
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:12:59
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:12:59
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:16:01
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:16:01
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:19:02
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:19:02
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:22:04
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:22:04
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:25:06
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:25:06
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:28:07
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:28:08
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:31:09
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:31:10
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:34:11
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:34:11
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:37:13
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:37:13
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:40:16
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:40:17
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:43:19
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:43:19
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:46:22
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:46:23
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:49:25
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:49:26
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:52:29
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:52:29
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:55:33
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:55:33
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:58:35
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 7:58:35
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:01:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:01:38
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:04:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:04:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:07:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:07:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:10:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:10:45
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:13:48
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:13:48
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:16:51
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:16:51
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:19:54
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:19:54
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:22:56
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:22:56
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:25:58
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:25:59
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:29:01
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:29:02
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:32:04
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:32:04
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:35:06
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:35:07
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:38:09
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:38:10
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:41:12
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:41:12
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:44:15
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:44:16
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:47:21
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:47:21
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:50:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 8:50:22
+	Файл історії User - 18091 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 8:50:22
+	Помилка передачі чату іншому менеджеру 2321:
+{"error":"OPERATOR_WRONG","error_description":"You can not redirect to this operator"}
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 8:50:24
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:50:24
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:53:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 8:53:25
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:53:26
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:56:27
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 8:56:28
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:56:29
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:59:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 8:59:30
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 8:59:31
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:02:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:02:33
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:02:33
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:05:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:05:35
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:05:35
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:08:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:08:37
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:08:37
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:11:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:11:41
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:11:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:14:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:14:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:14:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:17:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:17:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:17:46
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:20:46
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:20:47
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:20:48
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:23:49
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:23:50
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:23:51
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:26:51
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:26:53
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:26:53
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:29:54
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:29:55
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:29:55
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:32:56
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:32:57
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:32:57
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:35:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:35:59
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:35:59
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:39:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:39:01
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:39:01
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:42:02
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:42:02
+	Файл історії User - 18092 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 9:42:02
+	Помилка передачі чату іншому менеджеру 2321:
+{"error":"OPERATOR_WRONG","error_description":"You can not redirect to this operator"}
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 9:42:03
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:42:04
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:45:05
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:45:06
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:45:06
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:48:08
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:48:09
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:48:10
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:51:13
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:51:14
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:51:15
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:54:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:54:15
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:54:16
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:57:16
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 9:57:17
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 9:57:17
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:00:18
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:00:18
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:00:18
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:03:19
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:03:19
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:03:20
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:06:20
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:06:20
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:06:21
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:09:21
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:09:21
+	Файл історії User - 18069 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 10:09:22
+	Чат 7463 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 10:09:22
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:09:22
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:12:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:12:23
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:12:23
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:15:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:15:23
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:15:24
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:18:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:18:24
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:18:24
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:21:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:21:25
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:21:25
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:24:25
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:24:25
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:24:25
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:27:26
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:27:26
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:27:26
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:30:26
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:30:26
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:30:27
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:33:27
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:33:27
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:33:27
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:36:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:36:28
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:36:28
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:39:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:39:29
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:39:29
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:42:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:42:29
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:42:29
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:45:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:45:30
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:45:30
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:48:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:48:30
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:48:31
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:51:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:51:31
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:51:31
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:54:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:54:32
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:54:32
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:57:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 10:57:32
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 10:57:33
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:00:33
+	Воронка 4, угода - 18097, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:00:33
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:00:34
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:03:34
+	Воронка 4, угода - 18097, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:03:34
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:03:34
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:06:36
+	Воронка 4, угода - 18097, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:06:36
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:06:36
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:09:36
+	Воронка 4, угода - 18097, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:09:36
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:09:36
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:12:37
+	Воронка 4, угода - 18097, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:12:37
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:12:37
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:15:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:15:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:15:38
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:18:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:18:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:18:39
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:21:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:21:39
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:21:39
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:24:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:24:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:24:40
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:27:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:27:41
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:27:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:30:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:30:41
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:30:42
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:33:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:33:42
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:33:42
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:36:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:36:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:36:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:39:44
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:39:44
+	Історії чату 18100.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:39:44
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:39:44
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:39:54
+	✅ Оператор 5 успішно відповів (Chat ID: 7474)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:42:45
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:42:45
+	Додаємо історію чату з клієнтом 18100.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:42:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:42:45
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:42:58
+	✅ Оператор 5 успішно відповів (Chat ID: 7474)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:45:46
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:45:46
+	Додаємо історію чату з клієнтом 18100.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:45:46
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:45:47
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:46:03
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:48:48
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:48:48
+	Додаємо історію чату з клієнтом 18100.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:48:48
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:48:48
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:49:07
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:51:49
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:51:49
+	Додаємо історію чату з клієнтом 18100.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:51:50
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:51:50
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:52:10
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:54:51
+	Надсилаємо питання до gpt угода - Вадик - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:54:51
+	Додаємо історію чату з клієнтом 18100.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 11:54:51
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:54:51
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:55:14
+	✅ Оператор 5 успішно відповів (Chat ID: 7474)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:57:51
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 11:57:51
+	Файл історії User - 18100 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 11:57:52
+	Чат 7474 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 11:57:52
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 11:57:52
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:00:53
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:00:53
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:00:53
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:03:54
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:03:54
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:03:54
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:06:55
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:06:55
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:06:56
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:09:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:09:57
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:09:58
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:12:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:12:58
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:12:59
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:15:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:16:00
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:16:00
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:19:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:19:01
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:19:01
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:22:03
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:22:04
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:22:05
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:22:07
+	Надсилаємо питання до gpt угода - Ганна Лищенко - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:22:07
+	Історії чату 18102.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 12:22:20
+	✅ Оператор 3012 успішно відповів (Chat ID: 7475)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:25:07
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:25:09
+	Надсилаємо питання до gpt угода - Ганна Лищенко - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:25:09
+	Додаємо історію чату з клієнтом 18102.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 12:25:09
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:25:09
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:25:25
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:28:10
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:28:11
+	Надсилаємо питання до gpt угода - Ганна Лищенко - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:28:11
+	Додаємо історію чату з клієнтом 18102.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 12:28:11
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:28:11
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:28:32
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:31:12
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:31:12
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:31:13
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:34:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:34:15
+	Файл історії User - 18102 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 12:34:16
+	Чат 7475 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 12:34:16
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:34:16
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:37:17
+	Надсилаємо питання до gpt угода - Hanna Lyshchenko - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:37:18
+	Історії чату 18103.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 12:37:18
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:37:18
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:37:37
+	✅ Оператор 5 успішно відповів (Chat ID: 7476)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:40:18
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:40:19
+	Файл історії User - 18103 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 12:40:21
+	Чат 7476 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 12:40:21
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:40:21
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:43:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:43:22
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:43:23
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:46:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:46:24
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:46:25
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:49:26
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:49:27
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:49:27
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:52:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:52:28
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:52:28
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:55:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:55:29
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:55:29
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:58:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 12:58:30
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 12:58:31
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:01:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:01:33
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:01:33
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:04:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:04:35
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:04:35
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:07:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:07:36
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:07:36
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:10:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:10:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:10:39
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:13:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:13:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:13:40
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:16:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:16:41
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:16:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:19:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:19:42
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:19:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:22:43
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:22:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:22:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:25:45
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:25:45
+	Історії чату 18105.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:25:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:25:45
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:26:46
+	✅ Оператор 5 успішно відповів (Chat ID: 7478)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:28:46
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:28:46
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:28:47
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:28:47
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:28:51
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:31:50
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:31:50
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:31:50
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:31:51
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:31:54
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:34:52
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:34:52
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:34:52
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:34:53
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:34:58
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:37:54
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:37:54
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:37:54
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:37:54
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:38:03
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:40:57
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:40:57
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:40:57
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:40:58
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:41:07
+	✅ Оператор 5 успішно відповів (Chat ID: 7478)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:44:01
+	Надсилаємо питання до gpt угода - Mr McМurphy - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:44:01
+	Додаємо історію чату з клієнтом 18105.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:44:01
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:44:01
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:44:11
+	✅ Оператор 5 успішно відповів (Chat ID: 7478)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:47:02
+	Файл історії User - 18105 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 13:47:03
+	Чат 7478 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 13:47:04
+	Надсилаємо питання до gpt угода - Гость - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:47:04
+	Історії чату 18106.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:47:04
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:47:04
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:47:16
+	✅ Оператор 5 успішно відповів (Chat ID: 7479)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:50:07
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:50:07
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:53:09
+	Надсилаємо питання до gpt угода - Гость - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:53:09
+	Додаємо історію чату з клієнтом 18106.txt
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 13:53:09
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:53:09
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:53:21
+	Файл історії User - 18106 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 13:53:22
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 18106, FIELDS = { STAGE_ID = C4:UC_8ZPNTY, CATEGORY_ID = 4, TITLE = Гость - Istagram Page === Отвечено } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:53:23
+	Чат 7479 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 13:53:23
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 13:56:09
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:56:10
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:56:10
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:59:11
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 13:59:11
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 13:59:11
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:02:12
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:02:12
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:02:12
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:05:14
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:05:14
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:05:15
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:08:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:08:16
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:08:16
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:11:17
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:11:17
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:11:18
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:14:18
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:14:19
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:14:19
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:17:19
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:17:20
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:17:20
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:20:20
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:20:20
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:20:21
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:23:21
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:23:21
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:23:21
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:26:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:26:23
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:26:23
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:29:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:29:23
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:29:24
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:33:34
+	Логування працює.
+	BitrixGpt.Logs.Log
+21.03.2025 14:33:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:33:35
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:33:35
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:36:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:36:36
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:36:36
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:39:36
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:39:36
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:39:36
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:42:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:42:37
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:42:37
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:45:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:45:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:45:38
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:48:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:48:38
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:48:38
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:51:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:51:39
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:51:39
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:54:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:54:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:54:40
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:57:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 14:57:40
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 14:57:41
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:00:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:00:41
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:00:42
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:03:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:03:42
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:03:42
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:06:43
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:06:43
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:06:43
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:09:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:09:44
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:09:44
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:12:45
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:12:45
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:12:45
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:15:45
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:15:46
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:15:46
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:18:47
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:18:47
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:18:47
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:21:48
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:21:49
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:21:49
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:24:50
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:24:50
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:24:50
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:27:51
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:27:51
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:27:52
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:30:52
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:30:52
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:30:53
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:33:54
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:33:54
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:33:54
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:36:55
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:36:55
+	Воронка 5, угода - 17907, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:36:56
+	Воронка 5, угода - 17992, 9876 - цей контакт не має відкритих діалогів АМСТОР | МЕРЕЖА ТРЦ - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:39:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:39:58
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:42:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:42:58
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:46:03
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:46:04
+	Надсилаємо питання до gpt угода - Виктория Козачук - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 15:46:04
+	Історії чату 18110.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 15:46:43
+	✅ Оператор 3012 успішно відповів (Chat ID: 7481)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:49:05
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:49:05
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:52:06
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:52:06
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:55:06
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:55:06
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:58:07
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 15:58:07
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:01:08
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:01:08
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:04:09
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:04:09
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:07:09
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:07:10
+	Воронка 5, угода - 18112, 14948 - цей контакт не має відкритих діалогів ПРОДВИЖЕНИЕ ИНСТАГРАМА - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 16:10:11
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:10:11
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:13:11
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:13:11
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:16:12
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:16:12
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:19:13
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:19:13
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:22:13
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:22:13
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:25:14
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:25:14
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:28:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:28:15
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:31:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:31:16
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:34:16
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:34:17
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:37:17
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:37:17
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:40:19
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:40:19
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:43:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:43:22
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:46:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:46:23
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:49:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:49:24
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:52:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:52:25
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:55:25
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:55:25
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:58:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 16:58:28
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:01:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:01:29
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:04:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:04:30
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:07:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:07:31
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:10:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:10:32
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:13:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:13:33
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:16:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:16:33
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:19:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:19:34
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:22:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:22:35
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:25:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:25:36
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:28:36
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:28:37
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:31:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:31:38
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:34:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:34:39
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:37:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:37:39
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:40:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:40:40
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:43:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:43:41
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:46:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:46:42
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:49:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:49:42
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:52:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:52:43
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:55:43
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:55:43
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:58:43
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 17:58:43
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:01:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:01:44
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:04:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:04:44
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:07:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:07:45
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:10:48
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:10:48
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:13:49
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:13:49
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:16:49
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:16:49
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:19:49
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:19:50
+	Надсилаємо питання до gpt угода - Гость - Instagram Kyivphoto
+	BitrixGpt.Bitrix24.BitrixMain
+21.03.2025 18:19:50
+	Історії чату 18113.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+21.03.2025 18:19:52
+	Файл історії User - 18113 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+21.03.2025 18:19:53
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 18113, FIELDS = { STAGE_ID = C4:UC_8ZPNTY, CATEGORY_ID = 4, TITLE = Гость - Instagram Kyivphoto === Отвечено } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:19:54
+	Чат 7483 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 18:19:54
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+21.03.2025 18:22:51
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:22:51
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:25:53
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:25:54
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:28:55
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:28:55
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:31:55
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:31:55
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:34:56
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:34:56
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:37:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:37:57
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:40:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:40:57
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:43:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:43:58
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:46:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:46:58
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:49:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:49:58
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:52:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:52:59
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:55:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:55:59
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:58:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 18:58:59
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:02:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:02:00
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:05:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:05:00
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:08:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:08:01
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:11:01
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:11:01
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:14:02
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:14:02
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:17:02
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:17:03
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:20:03
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:20:04
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:23:04
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:23:04
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:26:05
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:26:05
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:29:06
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:29:06
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:32:07
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:32:07
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:35:08
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:35:08
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:38:08
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:38:08
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:41:09
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:41:09
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:44:09
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:44:09
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:47:10
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:47:10
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:50:12
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:50:13
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:53:14
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:53:14
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:56:14
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:56:14
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:59:15
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 19:59:15
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:02:16
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:02:16
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:05:16
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:05:17
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:08:20
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:08:21
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:11:21
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:11:21
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:14:21
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:14:22
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:17:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:17:22
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:20:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:20:23
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:23:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:23:24
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:26:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:26:25
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:29:25
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:29:25
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:32:26
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:32:26
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:35:27
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:35:27
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:38:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:38:28
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:41:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:41:28
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:44:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:44:29
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:47:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:47:30
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:50:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:50:30
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:53:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:53:31
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:56:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:56:31
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:59:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 20:59:32
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:02:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:02:33
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:05:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:05:34
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:08:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:08:35
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:11:36
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:11:36
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:14:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:14:37
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:17:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:17:38
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:20:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:20:39
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:23:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:23:39
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:26:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:26:40
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:29:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:29:41
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:32:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:32:42
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:35:43
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:35:43
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:38:44
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:38:44
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:41:45
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:41:45
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:44:45
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:44:46
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:47:46
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:47:46
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:50:47
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:50:47
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:53:48
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:53:48
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:56:48
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:56:49
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:59:49
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 21:59:49
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 22:02:50
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 22:02:50
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 22:05:51
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+21.03.2025 22:05:51
+	Warning: Воронка - 5, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix

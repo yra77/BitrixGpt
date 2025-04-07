@@ -1,0 +1,2377 @@
+01.03.2025 9:44:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 9:45:00
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:45:01
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:45:01
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:45:01
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:48:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 9:48:16
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:48:17
+	Історії чату 17571.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 9:48:17
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:48:17
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:48:17
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:48:18
+	Історії чату 17568.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 9:48:18
+	Історії чату 17569.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 9:48:19
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 9:49:19
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 9:50:21
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 9:51:19
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:51:20
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:51:20
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:51:20
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:51:24
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 9:52:27
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 9:54:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:54:23
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:54:23
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 9:54:23
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:39
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 10:56:41
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 10:56:42
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 10:56:42
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 10:56:43
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 10:56:44
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 10:56:44
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 10:57:45
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 10:58:48
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:00:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:01:00
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:01
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:01:01
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:01
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:01
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:01
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:01
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:01:02
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:01:02
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:01:03
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:01:03
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:16:19
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:16:21
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:22
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:16:22
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:22
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:22
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:22
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:22
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:16:23
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:16:23
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:16:24
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:16:25
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:17:23
+	Помилка при підключенні менеджера до сесії: {"error":"CHAT_ID","error_description":"Указан не корректный идентификатор чата"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:18:25
+	Помилка при підключенні менеджера до сесії: {"error":"CHAT_ID","error_description":"Указан не корректный идентификатор чата"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:19:25
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:26
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:26
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:26
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:26
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:26
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:19:28
+	Помилка при підключенні менеджера до сесії: {"error":"CHAT_ID","error_description":"Указан не корректный идентификатор чата"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:20:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:21:01
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:01
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:21:01
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:01
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:01
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:01
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:01
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:21:02
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:21:03
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:21:03
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:21:03
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:22:01
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:23:05
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:24:04
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:05
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:05
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:05
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:05
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:05
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:24:14
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:39:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:39:18
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:39:19
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:19
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:39:20
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:39:20
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:39:21
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:39:22
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:40:19
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:41:22
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:43:48
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:43:52
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:43:53
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:43:53
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:43:54
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:43:55
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:43:55
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:44:51
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:45:54
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 11:46:56
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 11:59:38
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:38
+	Історії чату 17571.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:59:38
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 11:59:39
+	Історії чату 17568.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:59:40
+	Історії чату 17569.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:59:41
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 11:59:41
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:00:39
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:01:19
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:01:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:23
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:01:24
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:24
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:24
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:24
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:24
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:24
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:01:25
+	Історії чату 17568.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:01:26
+	Історії чату 17569.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:01:27
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:01:28
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:02:24
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:03:27
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:08:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:08:17
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:08:19
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:08:19
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:08:20
+	Історії чату 17569.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:08:21
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:08:21
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:09:18
+	Помилка: 'Newtonsoft.Json.Linq.JArray' does not contain a definition for 'chatId'
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:10:21
+	Помилка: 'Newtonsoft.Json.Linq.JArray' does not contain a definition for 'chatId'
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:11:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:23
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:11:25
+	Помилка: 'Newtonsoft.Json.Linq.JArray' does not contain a definition for 'chatId'
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:26:55
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:26:57
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:26:58
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:58
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:26:59
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:26:59
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:27:00
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:27:00
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:28:00
+	Помилка прив'язки чату до CRM!
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:29:04
+	Помилка прив'язки чату до CRM!
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:34:38
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:34:40
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:34:41
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:34:41
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:34:42
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:34:42
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:34:43
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:35:42
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:37:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:37:18
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:37:19
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:19
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:37:20
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:37:20
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:37:21
+	Історії чату 17570.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:37:22
+	Історії чату 17572.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:38:21
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:39:23
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:40:22
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:22
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:40:28
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:41:33
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:42:36
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:43:25
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:43:26
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:30
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:46:31
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:49:15
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:49:16
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:49:16
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:49:17
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:49:17
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:49:18
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:50:17
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 12:51:27
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 12:51:29
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:51:31
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 12:51:31
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:51:32
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:51:33
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:51:33
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 12:52:30
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 13:15:32
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:32
+	Помилка: Accessed JArray values with invalid key value: "chatId". Int32 array index expected.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:33
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:15:33
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:15:33
+	Помилка: Accessed JArray values with invalid key value: "chatId". Int32 array index expected.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:34
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:15:34
+	Помилка: Accessed JArray values with invalid key value: "chatId". Int32 array index expected.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:34
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:15:35
+	Помилка: Accessed JArray values with invalid key value: "chatId". Int32 array index expected.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:35
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:15:35
+	Помилка: Accessed JArray values with invalid key value: "chatId". Int32 array index expected.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:15:36
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:21:21
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 13:21:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:21:24
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:24
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:21:25
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:21:25
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:21:26
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:21:27
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:22:24
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:23:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 13:23:17
+	Воронка 6, угода - 16611, 13696 - цей контакт не має відкритих діалогів Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:23:18
+	Error bitrix GetOpenLineChatIDAsync Newtonsoft.Json
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLineChatIDAsync(Int32 clientID, Boolean isOpenChat) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 288
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 13:23:18
+	Воронка 6, угода - 17102, 7726 - Цей контакт не має чатів Запит з Test line - Yurii
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:23:18
+	Воронка 6, угода - 17495,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:24:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 13:24:43
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:24:43
+	ERROR: System.Private.CoreLib
+   at System.Int32.Parse(String s)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 117
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:55
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 13:32:57
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:32:58
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:58
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 13:32:59
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:33:00
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:33:00
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 13:33:01
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:28
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:09:31
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:32
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:32
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:09:33
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:33
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:35
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:35
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:09:37
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:10:34
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:13:43
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:13:47
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:13:48
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:48
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:13:49
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:13:51
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:13:51
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:13:53
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:13:53
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:14:47
+	SendMsgToOpenLineAsync Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:19:10
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:19:15
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:19:17
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:19:17
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:19:19
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:19:19
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:19:20
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:19:21
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:20:18
+	Помилка прив'язки чату до CRM!
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:29:56
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:30:00
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:01
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:01
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:30:02
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:04
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:05
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:06
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:06
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:30:06
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:31:00
+	Помилка при підключенні менеджера до сесії: {"error":"CHAT_ID","error_description":"Указан не корректный идентификатор чата"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:32:05
+	Помилка при підключенні менеджера до сесії: {"error":"CHAT_ID","error_description":"Указан не корректный идентификатор чата"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:33:59
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:34:04
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:05
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:05
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:34:06
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:07
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:09
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:09
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:10
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:34:10
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:35:04
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:36:11
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:37:11
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:12
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:37:14
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:37:16
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:39:34
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:35
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:35
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:35
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:35
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:35
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:35
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:36
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:36
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:36
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:36
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:39:37
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:38
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:39
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:39
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:40
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:39:40
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:40:36
+	Не вдалося відправити повідомлення: {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:47:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:47:38
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:40
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:40
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:47:41
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:42
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:43
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:44
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:45
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:47:45
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:48:40
+	Error: сповіщення не відправлено до bitrix
+	BitrixGpt.Bitrix24.SendToBitrix
+01.03.2025 16:48:40
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:49:43
+	Error: сповіщення не відправлено до bitrix
+	BitrixGpt.Bitrix24.SendToBitrix
+01.03.2025 16:49:44
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 16:50:45
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:50:46
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 16:53:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:23
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:23
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:24
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:24
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:53:24
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:25
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:26
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:26
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:27
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 16:53:27
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 16:54:23
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 20:23:19
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 20:23:32
+	Error in GetOpenLinesAsync: Этот хост неизвестен. (24.page.zp.ua:443)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at BitrixGpt.Bitrix24.Deal_Bitrix.GetOpenLinesAsync() in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\Deal_Bitrix.cs:line 358
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 20:23:34
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:35
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:35
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:35
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:23:36
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:38
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:38
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:39
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:40
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:23:40
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:44
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 20:35:47
+	Error: Не вдалося отримати список відкритих ліній. Response: {"error":"ERROR_METHOD_NOT_FOUND","error_description":"Method not found!"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 20:35:48
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:49
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:49
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:49
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:35:50
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:50
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:51
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:52
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:52
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:35:52
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:18
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 20:38:21
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:21
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:21
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:22
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 20:38:22
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:23
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:24
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:24
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:25
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 20:38:25
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:00:22
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:22
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:22
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:22
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:23
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:23
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:00:23
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:23
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:24
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:24
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:25
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:00:25
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:01:24
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:05:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:05:19
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:19
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:20
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:20
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:20
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:05:21
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:21
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:22
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:22
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:22
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:05:22
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:06:20
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:12:43
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:12:45
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:45
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:45
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:46
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:12:46
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:47
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:48
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:48
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:48
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:12:48
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:13:47
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CANCELED","error_description":"Вы не можете отправлять сообщения в указанный чат"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:20:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:20:18
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:19
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:19
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:19
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:20:20
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:20
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:21
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:21
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:21
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:20:21
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:21:19
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CANCELED","error_description":"Вы не можете отправлять сообщения в указанный чат"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:22:28
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:22:30
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:30
+	Додаємо історію чату з клієнтом 17571.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:30
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:31
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:22:31
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:32
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:32
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:32
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:33
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:22:33
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:31:37
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Історії чату 17581.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:38
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:38
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:31:39
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:39
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:40
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:40
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:41
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:31:41
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:32:39
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:41:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 21:42:00
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:00
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:01
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:01
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:42:02
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:02
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:03
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:03
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:03
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 21:42:03
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 21:43:02
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 21:58:49
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:10:23
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:10:25
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:25
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:26
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:10:26
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:27
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:27
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:28
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:28
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:10:28
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:11:27
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 22:38:38
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:38:40
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:41
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:41
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:38:42
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:38:42
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:38:43
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:38:44
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:11
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:40:13
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:14
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:15
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:40:15
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:16
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:17
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:17
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:18
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:40:18
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:21
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:43:23
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:23
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:24
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:24
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:43:25
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:25
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:26
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:26
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:26
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:43:26
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:44:25
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.03.2025 22:58:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+01.03.2025 22:58:32
+	Воронка 4, угода - 17565, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:33
+	Воронка 4, угода - 17574, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:33
+	Додаємо історію чату з клієнтом 17581.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:34
+	Воронка 4, угода - 17555, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17556, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17561, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17573, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17575, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17577, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17579, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Воронка 4, угода - 17580, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:58:34
+	Додаємо історію чату з клієнтом 17568.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:35
+	Додаємо історію чату з клієнтом 17569.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:35
+	Додаємо історію чату з клієнтом 17570.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:36
+	Додаємо історію чату з клієнтом 17572.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:36
+	Історії чату 17576.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.03.2025 22:58:36
+	Воронка 5, угода - 17578, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.03.2025 22:59:35
+	Error bitrix SendMsgToOpenLineAsync не вдалося відправити повідомлення. {"error":"CHAT_NOT_IN_CRM","error_description":"Chat does not belong to the CRM entity being checked"}
+	BitrixGpt.Bitrix24.Deal_Bitrix

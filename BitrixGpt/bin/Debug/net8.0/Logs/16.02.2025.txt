@@ -1,0 +1,693 @@
+16.02.2025 7:19:48
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 7:19:53
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 7:19:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:19:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:19:53
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:20:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:20:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:20:54
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:21:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:21:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:21:54
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:22:55
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:22:55
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:23:56
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:23:56
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:23:56
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:24:56
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:24:56
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:24:56
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:25:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:25:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:25:57
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:26:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:26:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:26:57
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:27:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:27:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:27:58
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:28:59
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:28:59
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:28:59
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:29:59
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:29:59
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:29:59
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:31:00
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:31:00
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:31:00
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:33:47
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 7:33:51
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 7:33:51
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:33:51
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:33:51
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:34:52
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:34:52
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:34:52
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:35:52
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:35:52
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:36:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:36:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:36:53
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:37:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:37:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:37:53
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:49:04
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 7:49:09
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 7:49:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:49:09
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:49:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:51:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:51:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:51:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:51:09
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:53:10
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:53:10
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:53:10
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:53:10
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:55:11
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:55:11
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:55:11
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 7:55:11
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:03:04
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 8:03:07
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 8:03:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:03:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:03:07
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:05:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:05:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:05:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:05:07
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:07:08
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:07:08
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:07:08
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:09
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:53
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 8:09:57
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 8:09:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:09:57
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:11:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:11:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:11:57
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:11:57
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:13:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:13:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:13:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:13:58
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:15:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:15:58
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:15:58
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:19:50
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 8:19:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:19:53
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:19:53
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:21:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:21:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 8:21:54
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:28:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 11:28:46
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:30:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:30:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:30:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:30:46
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:32:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:32:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:32:46
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:34:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:34:46
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:34:46
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:56:18
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 11:56:21
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 11:58:50
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 11:58:53
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:02:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 12:02:35
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:04:35
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:04:35
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:06:35
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:06:35
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:08:35
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:08:35
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 83
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:13:52
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 12:13:54
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:13:54
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:15:55
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:15:55
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:15:55
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:19:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 12:19:22
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:19:22
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:19:22
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:21:22
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:21:22
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:21:22
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:21:22
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:41:01
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 12:41:04
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:41:04
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:41:04
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:43:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:43:07
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:43:07
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:45:09
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 12:45:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:45:09
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:45:09
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:47:11
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 12:47:11
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:47:11
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:47:11
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:49:13
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 12:49:14
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:49:14
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:49:14
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:51:18
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 12:51:18
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:51:18
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:51:18
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:51:24
+	Бот для User - 16611 поставлен в бан.
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:53:21
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 12:53:21
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:53:21
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:53:21
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 12:53:26
+	Не вдалося видалити файл C:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\bin\Debug\net8.0\Logs\Messages\16611.txt, він зайнятий іншим процесом
+	BitrixGpt.Helpers.MoveFile_To_Archive
+16.02.2025 12:53:26
+	Бот для User - 16611 поставлен в бан.
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:21:35
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 13:21:38
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:21:38
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:23:41
+	Історії чату 16611.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 13:23:41
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:23:41
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:23:41
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:25:43
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 13:25:43
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:25:43
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:25:43
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:27:45
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 13:27:45
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:27:45
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:27:45
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:29:47
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+16.02.2025 13:29:47
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:29:47
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:29:47
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 13:29:54
+	Бот для User - 16611 поставлен в бан.
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:10:12
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 17:10:14
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:10:14
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:10:14
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:12:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 17:13:00
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:13:00
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:13:00
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:19:36
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 17:19:39
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:19:39
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 17:19:39
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:04
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 18:00:06
+	30|TGC380973225510 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:06
+	21|TGC380993225510 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:07
+	21|TGC380993225510 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:07
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:07
+	30|TGC380973225510 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:07
+	27|FBINSTAGRAMDIRECT це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:00:08
+	21|TGC380993225510 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:02:51
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 18:02:55
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:02:56
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:06:01
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:06:02
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:35:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 18:35:45
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 18:35:47
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 19:11:30
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+16.02.2025 19:11:34
+	13696 - цей контакт вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+16.02.2025 19:11:34
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain

@@ -1,0 +1,4431 @@
+01.04.2025 8:18:44
+	Логування працює.
+	BitrixGpt.Logs.Log
+01.04.2025 8:18:46
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:18:46
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:18:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:18:47
+	Надсилаємо питання до gpt угода - Гость - Веселка инстаграм
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:18:47
+	Історії чату 18369.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 8:19:50
+	✅ Оператор 3012 успішно відповів (Chat ID: 7578)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 8:21:48
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:21:49
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:21:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:24:50
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:24:50
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:24:50
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:27:51
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:27:52
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:27:52
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:30:53
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:30:54
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:30:54
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:33:56
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:33:58
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:33:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:36:59
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:37:00
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:37:02
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:40:04
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:40:04
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:40:04
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:43:06
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:43:06
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:43:06
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:46:07
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:46:08
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:46:08
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:49:08
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:49:09
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:49:09
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:52:10
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:52:11
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:52:11
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:55:12
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:55:14
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:55:14
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:58:15
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:58:16
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 8:58:16
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:01:17
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:01:18
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:01:18
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:04:18
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:04:19
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:04:19
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:07:20
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:07:20
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:07:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:10:21
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:10:22
+	Надсилаємо питання до gpt угода - Grigorev Pavel - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:10:22
+	Історії чату 18370.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 9:10:23
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:10:23
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:10:59
+	✅ Оператор 5 успішно відповів (Chat ID: 7579)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:13:23
+	Файл історії User - 18370 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 9:13:25
+	Чат 7579 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 9:13:25
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:13:25
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:13:25
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:16:26
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:16:26
+	Воронка 4, угода - 18371, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:16:26
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:16:26
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:19:27
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:19:28
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:19:28
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:22:28
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:22:28
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:22:28
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:25:29
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:25:29
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:25:29
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:28:30
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:28:30
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:28:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:31:31
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:31:31
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:31:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:34:32
+	Воронка 4, угода - 18368, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:34:32
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:34:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:37:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:37:33
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:37:34
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:40:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:40:34
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:40:34
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:43:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:43:35
+	Файл історії User - 18369 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 9:43:35
+	Чат 7578 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 9:43:35
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:43:35
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:46:36
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:46:37
+	Надсилаємо питання до gpt угода - PSG - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:46:37
+	Історії чату 18372.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 9:46:37
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:46:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:47:05
+	✅ Оператор 5 успішно відповів (Chat ID: 7581)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:49:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:49:38
+	Файл історії User - 18372 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 9:49:38
+	Чат 7581 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 9:49:38
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:49:38
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:52:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:52:39
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:52:39
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:55:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:55:39
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:55:39
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:58:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 9:58:40
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 9:58:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:01:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:01:40
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:01:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:04:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:04:40
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:04:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:07:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:07:41
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:07:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:10:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:10:41
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:10:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:13:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:13:42
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:13:42
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:16:42
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 10:16:42
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:16:42
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:19:43
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:19:43
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:19:43
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:22:43
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:22:43
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:22:43
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:22:43
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:25:44
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:25:44
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:25:44
+	Воронка 5, угода - 18325, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:25:44
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:28:44
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:28:44
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:28:44
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:31:44
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:31:44
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:31:44
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:34:45
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:34:45
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:34:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:37:45
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:37:45
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:37:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:40:46
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:40:46
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:40:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:43:47
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:43:47
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:43:47
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:46:48
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:46:48
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:46:48
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:49:48
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:49:48
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:49:48
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:52:49
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:52:49
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:52:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:55:49
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:55:49
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:55:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:58:49
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:58:49
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 10:58:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:01:51
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:01:51
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:01:51
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:04:53
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:04:53
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:04:53
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:07:54
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:07:55
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:07:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:10:55
+	Воронка 4, угода - 18373, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:10:55
+	Воронка 4, угода - 18374, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:10:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:10:56
+	Надсилаємо питання до gpt угода - Victoria Vysotska - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:10:56
+	Історії чату 18377.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 11:11:12
+	✅ Оператор 3012 успішно відповів (Chat ID: 7582)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:13:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:13:58
+	Надсилаємо питання до gpt угода - Victoria Vysotska - Page telegram SITE
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:13:58
+	Додаємо історію чату з клієнтом 18377.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 11:13:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:14:15
+	Файл історії User - 18377 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 11:14:16
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 18377, FIELDS = { STAGE_ID = C5:PREPARATION, CATEGORY_ID = 5, TITLE = Victoria Vysotska - Page telegram SITE === Отвечено } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:14:16
+	Чат 7582 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 11:14:17
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 11:16:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:16:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:19:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:20:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:23:00
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:23:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:26:01
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:26:02
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:29:02
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:29:02
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:32:03
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:32:03
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:35:03
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:35:03
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:38:04
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:38:04
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:41:05
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:41:05
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:44:06
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:44:06
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:47:07
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:47:07
+	Надсилаємо питання до gpt угода - Kseniya - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:47:07
+	Історії чату 18381.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 11:47:08
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:47:20
+	✅ Оператор 5 успішно відповів (Chat ID: 7583)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:50:09
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:50:10
+	Надсилаємо питання до gpt угода - Kseniya - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:50:10
+	Додаємо історію чату з клієнтом 18381.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 11:50:11
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:50:23
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 11:53:11
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:53:12
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:56:13
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:56:13
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:59:14
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 11:59:15
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:02:16
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:02:18
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:05:18
+	Файл історії User - 18381 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 12:05:19
+	Чат 7583 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 12:05:19
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:05:19
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:08:20
+	Воронка 4, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:08:20
+	Воронка 4, угода - 18382, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:08:20
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:11:21
+	Воронка 4, угода - 18382, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:11:21
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:11:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:14:21
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:14:22
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:14:22
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:17:23
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:17:23
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:17:23
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:20:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:20:24
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:20:24
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:23:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:23:25
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:23:25
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:26:27
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:26:27
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:26:27
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:29:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:29:28
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:29:28
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:32:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:32:29
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:32:29
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:35:29
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:35:30
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:35:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:35:30
+	Воронка 5, угода - 18383, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:38:30
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:38:30
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:38:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:38:30
+	Воронка 5, угода - 18383, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:41:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:41:31
+	Воронка 5, угода - 18380, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:41:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:41:31
+	Воронка 5, угода - 18383, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:44:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:44:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:47:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:47:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:50:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:50:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:53:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 12:53:35
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:56:35
+	Воронка 4, угода - 18384, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:56:35
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:59:36
+	Воронка 4, угода - 18384, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 12:59:36
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:02:37
+	Воронка 4, угода - 18384, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:02:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:02:38
+	Надсилаємо питання до gpt угода - Alina - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:02:38
+	Історії чату 18385.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 13:03:31
+	✅ Оператор 3012 успішно відповів (Chat ID: 7585)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 13:05:39
+	Файл історії User - 18385 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 13:05:40
+	Чат 7585 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 13:05:40
+	Воронка 4, угода - 18384, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:05:40
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:05:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:08:41
+	Воронка 4, угода - 18384, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:08:41
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:08:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:11:41
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:11:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:14:42
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:14:42
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:14:43
+	Надсилаємо питання до gpt угода - Max Alekseenko - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:14:43
+	Історії чату 18388.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 13:15:35
+	✅ Оператор 3012 успішно відповів (Chat ID: 7587)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 13:17:44
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:17:44
+	Надсилаємо питання до gpt угода - Max Alekseenko - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:17:44
+	Додаємо історію чату з клієнтом 18388.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 13:17:44
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:18:39
+	Файл історії User - 18388 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 13:18:39
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 18388, FIELDS = { STAGE_ID = C5:PREPARATION, CATEGORY_ID = 5, TITLE = Max Alekseenko - Istagram Page === Отвечено } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 13:18:40
+	Чат 7587 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 13:18:40
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 13:20:45
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:20:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:23:46
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:23:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:26:46
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:26:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:29:47
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:29:47
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:32:48
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:32:48
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:35:50
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:35:50
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:38:51
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:38:51
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:41:51
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:41:51
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:44:53
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:44:54
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:47:55
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:47:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:50:55
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:50:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:53:56
+	Воронка 4, угода - 18386, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:53:56
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:56:56
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 13:56:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 13:59:57
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 13:59:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:02:58
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:02:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:05:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:05:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:08:59
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:09:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:12:01
+	Надсилаємо питання до gpt угода - Nataliya - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:12:01
+	Історії чату 18390.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 14:12:01
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:12:01
+	Воронка 5, угода - 18391, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:12:01
+	Воронка 5, угода - 18392, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:12:46
+	✅ Оператор 5 успішно відповів (Chat ID: 7589)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:15:03
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:15:03
+	Воронка 5, угода - 18391, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:15:03
+	Воронка 5, угода - 18392, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:15:03
+	Воронка 5, угода - 18393, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:15:03
+	Воронка 5, угода - 18394, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:15:03
+	Воронка 5, угода - 18395, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18391, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18392, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18393, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18394, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:18:04
+	Воронка 5, угода - 18395, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18391, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18392, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18393, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18394, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:21:05
+	Воронка 5, угода - 18395, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:06
+	Надсилаємо питання до gpt угода - Nataliya - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:06
+	Додаємо історію чату з клієнтом 18390.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 14:24:06
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:06
+	Воронка 5, угода - 18391, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:06
+	Воронка 5, угода - 18392, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:06
+	Воронка 5, угода - 18393, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:24:53
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:27:08
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:30:09
+	Надсилаємо питання до gpt угода - Nataliya - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:30:09
+	Додаємо історію чату з клієнтом 18390.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 14:30:09
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:30:58
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:33:10
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:36:12
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:39:13
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:42:15
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:45:16
+	Надсилаємо питання до gpt угода - Nataliya - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:45:16
+	Додаємо історію чату з клієнтом 18390.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 14:45:16
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:46:06
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 14:48:17
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:51:19
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:54:20
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 14:57:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:00:22
+	Надсилаємо питання до gpt угода - nicyflame - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:00:22
+	Історії чату 18396.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 15:00:22
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:01:11
+	✅ Оператор 5 успішно відповів (Chat ID: 7594)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:03:22
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:03:22
+	Файл історії User - 18396 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 15:03:23
+	Чат 7594 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 15:03:23
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:06:24
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:06:24
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:09:25
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:09:25
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:12:26
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:12:26
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:15:27
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:15:27
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:18:28
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:18:28
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:21:28
+	Файл історії User - 18390 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 15:21:29
+	Чат 7589 успішно передано 5
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 15:21:29
+	Воронка 4, угода - 18397, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:21:29
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:21:30
+	Надсилаємо питання до gpt угода - Ekaterina Harmash - PageNumber_Telegram
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:21:30
+	Історії чату 18398.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 15:22:16
+	✅ Оператор 3012 успішно відповів (Chat ID: 7595)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:24:30
+	Файл історії User - 18398 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 15:24:31
+	Чат 7595 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 15:24:31
+	Воронка 4, угода - 18397, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:24:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:27:31
+	Воронка 4, угода - 18397, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:27:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:30:31
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:30:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:33:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:33:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:36:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:36:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:39:32
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:39:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:42:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:42:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:45:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:45:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:48:33
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:48:34
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:51:34
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:51:34
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:54:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:54:35
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 15:57:35
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 15:57:36
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:00:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:00:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:03:37
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:03:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:06:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:06:38
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:09:38
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:09:39
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:12:39
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:12:39
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:15:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:15:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:18:40
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:18:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:21:41
+	Warning: Воронка - 4, Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 16:21:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:24:43
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:44
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:45
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:45
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:27:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:30:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:47
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:48
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:48
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:33:48
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:36:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:39:50
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:42:50
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:45:52
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:48:53
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:51:53
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:54:54
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 16:57:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:00:56
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:03:56
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:06:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:09:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:12:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:15:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:19:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:22:01
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:25:02
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:28:03
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:31:04
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:34:05
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:37:06
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:40:07
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:11
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:12
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:13
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:14
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:14
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:14
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:15
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:15
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:43:15
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:46:16
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:49:17
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:52:18
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:55:19
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 17:58:20
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:01:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:04:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:07:22
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:10:23
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:13:23
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:16:24
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:19:25
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:29
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:22:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:25:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:28:31
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:31:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:34:32
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:37:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:40:34
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:43:35
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:46:36
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:49:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:52:38
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:55:38
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:39
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:40
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:40
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 18:58:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:01:40
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:04:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:07:42
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:10:43
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:13:44
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:16:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:19:46
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:47
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:48
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:22:48
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:48
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:49
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:49
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:25:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:49
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:49
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:49
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:28:50
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:31:52
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:34:53
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:37:54
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:40:54
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:43:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:46:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:49:55
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:52:56
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:55:56
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 19:58:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:01:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:04:57
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:07:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:10:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:13:58
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:16:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:19:59
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:23:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:26:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:29:00
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:32:01
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:35:01
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:38:02
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:41:03
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:03
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:03
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:03
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:44:04
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:05
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:06
+	Надсилаємо питання до gpt угода - Наталія Левицька - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:47:06
+	Історії чату 18415.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 20:47:35
+	✅ Оператор 3012 успішно відповів (Chat ID: 7602)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 20:50:07
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:50:07
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:10
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:12
+	Надсилаємо питання до gpt угода - Наталія Левицька - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:12
+	Додаємо історію чату з клієнтом 18415.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 20:53:12
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:53:44
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 20:56:13
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:13
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:56:14
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:16
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 20:59:18
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:19
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:02:20
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:05:21
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:22
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:23
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:08:24
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:25
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:11:26
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Надсилаємо питання до gpt угода - Bayer service - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Історії чату 18416.txt не знайдено
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:14:27
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:27
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:28
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:14:52
+	✅ Оператор 5 успішно відповів (Chat ID: 7603)
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:17:28
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Надсилаємо питання до gpt угода - Bayer service - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:29
+	Додаємо історію чату з клієнтом 18416.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:17:30
+	Надсилаємо питання до gpt угода - Наталія Левицька - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:30
+	Додаємо історію чату з клієнтом 18415.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:17:30
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:17:59
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:19:06
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:20:32
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:32
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:33
+	Надсилаємо питання до gpt угода - Bayer service - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:20:33
+	Додаємо історію чату з клієнтом 18416.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:20:33
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:21:13
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:23:35
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:35
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:37
+	Надсилаємо питання до gpt угода - Наталія Левицька - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:23:37
+	Додаємо історію чату з клієнтом 18415.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:23:37
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:24:21
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:26:38
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Надсилаємо питання до gpt угода - Bayer service - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:26:38
+	Додаємо історію чату з клієнтом 18416.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:26:39
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:27:27
+	⚠️ Помилка підключення до Bitrix24 API: BadRequest
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:29:40
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:40
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:41
+	Надсилаємо питання до gpt угода - Наталія Левицька - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:29:41
+	Додаємо історію чату з клієнтом 18415.txt
+	BitrixGpt.Helpers.GetChatHistory
+01.04.2025 21:29:41
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:30:32
+	Файл історії User - 18415 перемістили у архів.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+01.04.2025 21:30:33
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 18415, FIELDS = { STAGE_ID = C5:PREPARATION, CATEGORY_ID = 5, TITLE = Наталія Левицька - Istagram Page === Отвечено } }
+	BitrixGpt.Bitrix24.Deal_Bitrix
+01.04.2025 21:30:34
+	Чат 7602 успішно передано 3012
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 21:30:34
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+01.04.2025 21:32:42
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:42
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:32:43
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:44
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:35:45
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:46
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:38:47
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:48
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:41:49
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:50
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:44:51
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18401, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18404, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18405, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18406, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18407, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18408, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18402, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:51
+	Воронка 4, угода - 18403, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+01.04.2025 21:47:52
+	Воронка 5, угода - 18301, 36 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain

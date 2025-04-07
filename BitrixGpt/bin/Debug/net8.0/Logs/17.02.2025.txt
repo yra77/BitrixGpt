@@ -1,0 +1,571 @@
+17.02.2025 8:58:51
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 8:58:58
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 8:59:01
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 8:59:11
+	3 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:02:15
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:02:17
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:02:24
+	3 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:06:08
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:06:16
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:06:29
+	3 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:07:44
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:07:50
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:07:56
+	3 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:10:44
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:10:50
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:10:55
+	3 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:24:38
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:24:40
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 9:24:40
+	ERROR: System.Private.CoreLib
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 56
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 9:27:09
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:27:11
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 9:37:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 9:37:43
+	CALL це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:10:37
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 13:10:40
+	WEBFORM це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:13:40
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 13:13:41
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:44:23
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 13:44:25
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 13:44:26
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:47:30
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:48:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 13:48:36
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:49:28
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 13:49:32
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 13:51:44
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 13:51:47
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 13:51:47
+	 це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:20:38
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:20:43
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:20:44
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:20:45
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:20:45
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:20:46
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:20:47
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:20:47
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:20:49
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 17102, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Запит з Test line - Yurii Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:23:49
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:45
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:25:51
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:25:51
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:51
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:52
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:52
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:25:52
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:53
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:25:53
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:25:53
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 17102, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Запит з Test line - Yurii Це джерело ми не перевіряємо Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:39:26
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:39:29
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 66
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:41:26
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:41:32
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:41:32
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:41:33
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:41:33
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:41:33
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:41:34
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:41:35
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:41:35
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 66
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:44:34
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:44:42
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:44:43
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:44:44
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:44:44
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:44:44
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:44:45
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:44:45
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 66
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:48:01
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:48:06
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:48:06
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:48:07
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:48:07
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:48:07
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:48:09
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:48:09
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:48:10
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 66
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:50:47
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:50:51
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:50:51
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:50:51
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:50:52
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:50:52
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:50:52
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо Дубликат 13696 } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:50:53
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо14|TGC380733225510 Це джерело ми не перевіряємо } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 14:50:53
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 66
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:57:39
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 14:57:45
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:57:45
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 14:57:45
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:08:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 15:08:25
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:08:25
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:11:29
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:11:29
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:11:29
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:13:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 15:13:25
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:13:25
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:16:27
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:16:27
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:16:27
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:18:31
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 15:18:37
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:18:37
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:18:37
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:21:40
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:22:48
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 15:22:54
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:22:54
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:25:57
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:25:57
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 15:25:57
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:24:07
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 17:24:11
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:24:11
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:24:11
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:27:14
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+17.02.2025 17:27:14
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:27:14
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:27:14
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:30:20
+	Додаємо історію чату з клієнтом 16611.txt
+	BitrixGpt.Helpers.GetChatHistory
+17.02.2025 17:30:20
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:30:20
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:30:20
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:31:16
+	Error move to archive: The process cannot access the file because it is being used by another process.
+	BitrixGpt.Helpers.MoveFile_To_Archive
+17.02.2025 17:31:16
+	Файл історії User - 16611 перемістили у архів.
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 17:31:17
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16611, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Отвеченно } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:18
+	Сповіщення відправлено у битрикс
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:18
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:19
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:20
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:20
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:21
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16615, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:31:21
+	Success: Угоду пересунуто до наступної стадії
+{ ID = 16798, FIELDS = { STAGE_ID = C6:PREPARATION, CATEGORY_ID = 6, TITLE = Yurii - Test bot === Дубликат } }
+	BitrixGpt.Bitrix24.SendToBitrix
+17.02.2025 17:33:21
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 18:06:56
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 18:06:58
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 18:25:05
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 18:25:08
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 18:25:08
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 18:25:08
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:55:05
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 19:55:08
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:55:08
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:55:08
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:58:25
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 19:58:30
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:58:30
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 19:58:30
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:01:31
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:04:30
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 20:04:34
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:04:34
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:04:34
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:07:35
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:10:35
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:20:20
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 20:20:24
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:20:24
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:20:24
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:23:24
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:31:47
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+17.02.2025 20:31:53
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:31:53
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+17.02.2025 20:31:53
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain

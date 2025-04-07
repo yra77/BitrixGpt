@@ -1,0 +1,440 @@
+20.02.2025 11:17:19
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 11:17:24
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:17:24
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:17:24
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:43:39
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 11:43:44
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:43:44
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:43:45
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 11:46:58
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 12:56:54
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 12:56:59
+	Воронка 6, 16615 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 12:56:59
+	Воронка 6, 16798 - Угода дубльована, цей контакт 13696 вже є Yurii - Test bot
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 12:56:59
+	Воронка 6, угода - 17102,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:07:08
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:07:10
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:07:10
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:07:12
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:07:12
+	Воронка 5, угода - 17276, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:07:12
+	Воронка 5, угода - 17286, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:08:50
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:08:52
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:08:54
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:08:56
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:08:56
+	Воронка 5, угода - 17276, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:08:56
+	Воронка 5, угода - 17286, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:33:05
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:33:06
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:33:06
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:33:07
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:33:59
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:34:02
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 136
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:34:58
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:35:02
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:35:04
+	Воронка 4, угода - 17279,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:36:10
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:36:11
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:36:11
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:36:12
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:37:18
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:37:20
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:37:20
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:37:20
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:38:16
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:38:17
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:38:17
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:38:18
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:39:52
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:39:54
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:39:54
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:39:55
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:41:04
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:41:05
+	Воронка 4, угода - 17289, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:41:05
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:41:06
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:42:14
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:42:15
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:42:15
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:42:16
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.ManagerHasReplied(List`1 dealogHistory, String clientId, String managerId) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 206
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 134
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:43:09
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:43:11
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:43:11
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:43:11
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:44:22
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:44:23
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:44:24
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:44:25
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:45:53
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:45:54
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:45:55
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:45:55
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:46:44
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:46:45
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:46:45
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:46:46
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:48:32
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:48:34
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:48:34
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:48:34
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:49:17
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:49:19
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 13:49:19
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:49:19
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:50:02
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 13:50:06
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 13:50:08
+	Воронка 4, угода - 17279,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 14:28:33
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 14:28:35
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 14:28:35
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 14:28:38
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 14:28:38
+	Воронка 5, угода - 17291,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:48:08
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 18:48:11
+	Воронка 4, угода - 17296, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:48:11
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:48:11
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:48:11
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:11
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 18:51:12
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:12
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:12
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:12
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:29
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 18:51:31
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 18:51:31
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:31
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:31
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:51:31
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:53:18
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 18:53:21
+	ERROR: BitrixGpt
+   at BitrixGpt.Bitrix24.BitrixMain.ManagerHasReplied(List`1 dealogHistory, String clientId, String managerId) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 209
+   at BitrixGpt.Bitrix24.BitrixMain.StartAsync(CancellationToken cancellationToken) in c:\Users\kceni\OneDrive\Рабочий стол\Projects\BitrixGpt\BitrixGpt\Bitrix24\BitrixMain.cs:line 134
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:54:26
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 18:54:29
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 18:54:32
+	Воронка 4, угода - 17279,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:00:27
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 19:00:31
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:00:33
+	Воронка 4, угода - 17279,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:04:46
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 19:04:47
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 19:37:15
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 19:37:16
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 19:37:17
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:37:17
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:37:17
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:37:17
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:37:17
+	Warning: Відкритих чатів не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 19:37:17
+	Воронка 5, угода - 17304, 14270 - Цей контакт не має чатів Alya | Танці Запоріжжя - Istagram Page
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:38:36
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 19:38:37
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 19:38:37
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:38:37
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:38:37
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 19:38:37
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:24:41
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 20:24:43
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 20:24:44
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:24:44
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:24:44
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:24:44
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:31:30
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 20:31:32
+	Warning: Відкритих угод не знайдено.
+	BitrixGpt.Bitrix24.SendToBitrix
+20.02.2025 20:31:33
+	Воронка 5, угода - 17262, CALL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:31:33
+	Воронка 5, угода - 17259, WEBFORM Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:31:33
+	Воронка 5, угода - 17302, 11|TGC380934970006 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:31:33
+	Воронка 5, угода - 17303, EMAIL Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:32:21
+	Логірованиє працює.
+	BitrixGpt.Logs.Log
+20.02.2025 20:32:27
+	Воронка 4, угода - 17116, 3 Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
+20.02.2025 20:32:33
+	Воронка 4, угода - 17279,  Це джерело ми не перевіряємо
+	BitrixGpt.Bitrix24.BitrixMain
