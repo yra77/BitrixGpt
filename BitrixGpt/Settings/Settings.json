@@ -1,5 +1,5 @@
 {
-    "OPENAI_KEY": "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",
+    "OPENAI_KEY": "your key",
     "OPENAI_PATH": "https://api.openai.com/v1/chat/completions",
     "MODEL_GPT": "gpt-4o-mini",
     "DEAL_CLOSED": "Щоб бути у курсі наших акцій та новин підписуйтеся на наш канал у телеграмі https://t.me/page_zaporizhzhia",
@@ -8,7 +8,7 @@
     "FIRST_OUT_MSG": "Вас вітає типографія Page. Наш телефон +380973225510 Щоб бути у курсі наших акцій та новин підписуйтеся на наш канал у телеграмі https://t.me/page_zaporizhzhia Наш сайт: https://page.zp.ua. Для оптових замовників діє гнучка система знижок! Дякуємо за ваше звернення, ми обов'язково зв'яжемося з вами. ",
     "WEEKEND_TEXT": " . Одразу треба попередити клієнта, що ми не працюємо до понеділка.",
     "INSTRUCTS_FOR_GPT": "Ви є ботом, який відповідає на запити клієнтів у сфері поліграфії, ціни на друк не треба писати, потрібно зібрати у клієнта всі дані для прорахунку друку. Якщо клієнт допускає помилки в тексті, виправляйте їх і намагайтеся зрозуміти значення за контекстом.Якщо запит складний, неоднозначний чи не зрозумілий або потребує людської участі, додайте фразу ",
-    "BITRIX_HOOK": "https://24.page.zp.ua/rest/2321/37rq4ftomdvdf2g0/",
+    "BITRIX_HOOK": "https://24.page.zp.ua/rest/2321/your webhook/",
     "BITRIX_SOURCE_NAME": "TGC380733225510,TGC380993225510,TGC380973225510,TGC380674370501,TGC380974970006,TELEGRAM,FBINSTAGRAMDIRECT,FACEBOOK",
     "BITRIX_MY_PROJECTS_NAME": "Page,Веселка,Kyivphoto,Київфото",
     "BITRIX_VORONKA": "4,5",
